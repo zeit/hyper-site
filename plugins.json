@@ -583,5 +583,12 @@
     ],
     "preview": "https://github.com/manniefesto/hyper-cyberpunk/raw/2ae9b73949441f2526279b1acd213377aceb4d7e/cyberpunk.gif?raw=true",
     "dateAdded": "1547219532507"
+  },
+  {
+    "name": "hyperpower2",
+    "description": "Extension for Hyper that turns on power mode, with configuration options for particle effects",
+    "type": "plugin",
+    "preview": "https://user-images.githubusercontent.com/1769935/61003168-a33b9380-a3a6-11e9-83e5-76b80ebc1a14.gif",
+    "dateAdded": "1565082142821"
   }
 ]

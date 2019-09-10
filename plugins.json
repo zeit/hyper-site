@@ -583,5 +583,16 @@
     ],
     "preview": "https://github.com/manniefesto/hyper-cyberpunk/raw/2ae9b73949441f2526279b1acd213377aceb4d7e/cyberpunk.gif?raw=true",
     "dateAdded": "1547219532507"
+  },
+  {
+    "name": "1984-hyper-theme",
+    "description": "Vintage vaporwave style for your terminal.",
+    "type": "theme",
+    "colors": [
+      "#FF16B0",
+      "#350E72"
+    ],
+    "preview": "https://raw.githubusercontent.com/vmariano/1984-hyper-theme/3b0b97f8c4070bb1e1d2c291499b02c760d80599/sample1.png",
+    "dateAdded": "1560783002176"
   }
 ]

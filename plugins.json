@@ -595,5 +595,17 @@
       "#0095FF"
     ],
     "dateAdded": "1558342235115"
+  },
+  {
+    "name": "hyper-mayukai",
+    "description": "A dark hyper theme with bright colors - inspired by the VSCode theme Mayukai",
+    "type": "theme",
+    "preview": "https://raw.githubusercontent.com/cevr/hyper-mayukai/master/screenshot.png",
+    "colors": [
+      "#191e2a",
+      "#ed8274",
+      "#fad07b"
+    ],
+    "dateAdded": "1580006775488"
   }
 ]

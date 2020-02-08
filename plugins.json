@@ -508,7 +508,7 @@
     "type": "plugin",
     "preview": "https://raw.githubusercontent.com/daltonmenezes/hyper-init/master/img/hyper-init.gif",
     "dateAdded": "1541659140469"
-  },  
+  },
   {
     "name": "hyper-launch-menu",
     "description": "Launch more than one kind of shell from the menu",
@@ -595,5 +595,12 @@
       "#0095FF"
     ],
     "dateAdded": "1558342235115"
+  },
+  {
+    "name": "hyper-notifier",
+    "description": "Watches console output to trigger desktop notifications",
+    "type": "plugin",
+    "preview": "https://cl.ly/3191dc78d5b7/Screen%252520Recording%2525202019-10-02%252520at%25252012.43%252520AM.gif",
+    "dateAdded": "1570002647172"
   }
 ]

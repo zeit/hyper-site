@@ -508,7 +508,7 @@
     "type": "plugin",
     "preview": "https://raw.githubusercontent.com/daltonmenezes/hyper-init/master/img/hyper-init.gif",
     "dateAdded": "1541659140469"
-  },  
+  },
   {
     "name": "hyper-launch-menu",
     "description": "Launch more than one kind of shell from the menu",
@@ -595,5 +595,23 @@
       "#0095FF"
     ],
     "dateAdded": "1558342235115"
+  },
+  {
+    "name": "hyper-materialshell",
+    "description": "A material design theme for Hyper based on materialshell.",
+    "type": "theme",
+    "preview": "https://user-images.githubusercontent.com/7629661/66719173-828f3980-edec-11e9-896e-b95cdc61f985.png",
+    "colors": [
+      "#252525",
+      "#FF5252",
+      "#C3D82C",
+      "#FFC135",
+      "#42A5F5",
+      "#D81B60",
+      "#00ACC1",
+      "#F5F5F5",
+      "#708284"
+    ],
+    "dateAdded": "1570984454459"
   }
 ]

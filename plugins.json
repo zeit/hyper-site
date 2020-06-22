@@ -597,6 +597,13 @@
     "dateAdded": "1558342235115"
   },
   {
+    "name": "hyper-imgcat",
+    "description": "Display the image in your terminal.",
+    "type": "plugin",
+    "preview": "https://user-images.githubusercontent.com/17779386/74082722-2ab5c600-4aa0-11ea-9eda-af10eca31e14.gif",
+    "dateAdded": "1581172026738"
+  },
+  {
     "name": "hyper-rose-pine",
     "type": "theme",
     "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",

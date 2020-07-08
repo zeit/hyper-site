@@ -508,7 +508,7 @@
     "type": "plugin",
     "preview": "https://raw.githubusercontent.com/daltonmenezes/hyper-init/master/img/hyper-init.gif",
     "dateAdded": "1541659140469"
-  },  
+  },
   {
     "name": "hyper-launch-menu",
     "description": "Launch more than one kind of shell from the menu",
@@ -620,5 +620,21 @@
     "type": "plugin",
     "preview": "https://github.com/jZhangTk/hyper-tabs-autohide/raw/master/hyper-tabs-autohide.gif",
     "dateAdded": "1583633829078"
+  },
+  {
+    "name": "hyper-sick",
+    "type": "theme",
+    "description": "Sick colors for your terminal",
+    "preview": "https://github.com/pablopunk/art/raw/master/sick-colors/terminal-dark.png",
+    "colors": [
+      "#dadada",
+      "#fc7575",
+      "#6ef8be",
+      "#e9ff81",
+      "#6aa2ff",
+      "#c481ff",
+      "#6de5ff"
+    ],
+    "dateAdded": "1587465420094"
   }
 ]

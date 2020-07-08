@@ -407,7 +407,7 @@
     "name": "hyper-pokemon",
     "description": "Tailor-made Pokémon themes for your Hyper terminal",
     "type": "theme",
-    "preview": "https://raw.githubusercontent.com/klauscfhq/hyper-pokemon/356542cd/media/screen%402x.png",
+    "preview": "https://raw.githubusercontent.com/klaussinani/hyper-pokemon/master/media/screen%402x.png",
     "colors": [
       "#F7DE82",
       "#E28638",
@@ -445,7 +445,7 @@
     "name": "hyperocean",
     "description": "Deep oceanic blue Hyper theme",
     "type": "theme",
-    "preview": "https://raw.githubusercontent.com/klauscfhq/hyperocean/master/media/screen.png",
+    "preview": "https://raw.githubusercontent.com/klaussinani/hyperocean/master/media/screen.png",
     "colors": [
       "#0F111A",
       "#3A75C4",

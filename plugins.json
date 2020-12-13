@@ -585,6 +585,13 @@
     "dateAdded": "1547219532507"
   },
   {
+    "name": "hyper-backspace",
+    "description": "Physically drop deleted characters from your terminal.",
+    "type": "plugin",
+    "preview": "https://user-images.githubusercontent.com/184220/55085247-a5ebd480-50a6-11e9-8590-5064eb58debf.gif",
+    "dateAdded": "1553785551718"
+  },
+  {
     "name": "hyper-hypest",
     "description": "A beautiful and minimal macOS theme with vibrancy",
     "type": "theme",

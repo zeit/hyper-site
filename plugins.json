@@ -1,5 +1,15 @@
 [
   {
+    "name": "hyper-rose",
+    "description": "A theme based on bright pink colours",
+    "type": "theme",
+    "colors": [
+      "#F92672",
+      "#FE2370"
+    ],
+    "dateAdded": "1591029651113"
+  },
+  {
     "name": "hypercwd",
     "description": "Opens new tabs with the same directory as the current tab in Hyper for OS X, Linux, and Windows.",
     "type": "plugin",

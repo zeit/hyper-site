@@ -508,7 +508,7 @@
     "type": "plugin",
     "preview": "https://raw.githubusercontent.com/daltonmenezes/hyper-init/master/img/hyper-init.gif",
     "dateAdded": "1541659140469"
-  },  
+  },
   {
     "name": "hyper-launch-menu",
     "description": "Launch more than one kind of shell from the menu",
@@ -635,5 +635,15 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-bubblegum",
+    "type": "theme",
+    "description": "a deliciously minimalist bright pink theme",
+    "colors": [
+      "#E500E5",
+      "#FFFFFF"
+    ],
+    "dateAdded": "1605550372962"
   }
 ]

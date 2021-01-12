@@ -635,5 +635,11 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-acrylic",
+    "type": "plugin",
+    "description": "A beautiful acrylic background for Windows 10.",
+    "dateAdded": "1607524599706"
   }
 ]

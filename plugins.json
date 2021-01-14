@@ -635,5 +635,21 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-handcrafted-theme",
+    "type": "theme",
+    "description": "A carefully crafted dark theme for Hyper.",
+    "colors": [
+      "#03131D",
+      "#fd8877",
+      "#5eb231",
+      "#b3ae50",
+      "#9aa5ff",
+      "#f585ca",
+      "#59be84",
+      "#d1c4b6"
+    ],
+    "dateAdded": "1602843439446"
   }
 ]

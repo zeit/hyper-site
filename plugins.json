@@ -635,5 +635,21 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-omni-theme",
+    "description": "Omni theme for Hyper.",
+    "type": "theme",
+    "colors": [
+      "#191622",
+      "#282a36",
+      "#41414D",
+      "#E1E1E6",
+      "#E96379",
+      "#ffb86c",
+      "#50fa7b",
+      "#988bc7"
+    ],
+    "dateAdded": "1610718143430"
   }
 ]

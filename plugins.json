@@ -508,7 +508,7 @@
     "type": "plugin",
     "preview": "https://raw.githubusercontent.com/daltonmenezes/hyper-init/master/img/hyper-init.gif",
     "dateAdded": "1541659140469"
-  },  
+  },
   {
     "name": "hyper-launch-menu",
     "description": "Launch more than one kind of shell from the menu",
@@ -635,5 +635,12 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-manager",
+    "description": "Manage all your connections.",
+    "type": "plugin",
+    "preview": "https://raw.githubusercontent.com/oOthkOo/hyper-manager/main/screencasts/screencast-001.gif",
+    "dateAdded": "1616812625491"
   }
 ]

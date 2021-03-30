@@ -635,5 +635,13 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-kitten-cursor",
+    "description": "Replace your Hyper cursor with a curious kitten!",
+    "type": "plugin",
+    "preview": "https://raw.githubusercontent.com/williamtfalch/hyper-kitten-cursor/main/banner.png",
+    "dateAdded": "1617108460119",
+    "featured": true
   }
 ]

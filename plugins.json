@@ -635,5 +635,23 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-pastelle",
+    "type": "theme",
+    "description": "A nice, pastel-colored theme for Hyper with unfocus dim and modern tab animation.",
+    "preview": "https://raw.githubusercontent.com/dilanx/hyper-pastelle/main/image.png",
+    "colors": [
+      "ff6961",
+      "#5bf5a5",
+      "#fdfd96",
+      "#a7c7e7",
+      "#f49ac2",
+      "#92ddea",
+      "#ffffff",
+      "#000000",
+      "#808080"
+    ],
+    "dateAdded": "1618553754613"
   }
 ]

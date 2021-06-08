@@ -635,5 +635,18 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-github-dark-dimmed",
+    "type": "theme",
+    "description": "GitHub Dark Dimmed theme port for Hyper.",
+    "colors": [
+      "#22272e",
+      "#f78166",
+      "#444c56",
+      "#adbac7"
+    ],
+    "preview": "https://raw.githubusercontent.com/brianzelip/hyper-github-dark-dimmed/main/screenshot-hyper-github-dark-dimmed.png",
+    "dateAdded": "1623083054377"
   }
 ]

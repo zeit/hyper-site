@@ -635,5 +635,18 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-github-light",
+    "type": "theme",
+    "description": "GitHub Light Default theme port for Hyper.",
+    "colors": [
+      "#24292e",
+      "#f78166",
+      "#0366d6",
+      "#ffffff"
+    ],
+    "preview": "https://raw.githubusercontent.com/brianzelip/hyper-github-light/main/screenshot-hyper-github-light.png",
+    "dateAdded": "1623151955954"
   }
 ]

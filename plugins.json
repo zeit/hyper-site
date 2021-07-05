@@ -635,5 +635,19 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-kira-theme",
+    "type": "theme",
+    "description": "Material and beautiful Hyper theme.",
+    "colors": [
+      "#57C7FF",
+      "#6DDCCF",
+      "#F25287",
+      "#A5E1AD",
+      "#FFEDA3",
+      "#A685E2"
+    ],
+    "dateAdded": "1624243319162"
   }
 ]

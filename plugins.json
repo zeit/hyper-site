@@ -635,5 +635,17 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-breeze-theme",
+    "type": "theme",
+    "description": "KDE Breeze-like theme for Hyper.",
+    "preview": "https://raw.githubusercontent.com/codipodi/hyper-breeze-theme/master/.github/screenshot.png",
+    "colors": [
+      "#31363b",
+      "#eff0f1",
+      "#1abc9c"
+    ],
+    "dateAdded": "1615929593544"
   }
 ]

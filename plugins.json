@@ -635,5 +635,25 @@
       "#9272dc"
     ],
     "dateAdded": "1597807892019"
+  },
+  {
+    "name": "hyper-smooth",
+    "type": "theme",
+    "description": "A comfortable soft color pallet that supports automatically switching variants based on the active macOS appearance.",
+    "colors": [
+      "#eb6f92",
+      "#f6c177",
+      "#d7827e",
+      "#00A572",
+      "#56949f",
+      "#907aa9",
+      "#575279",
+      "#6e6a86",
+      "#9893a5",
+      "#f2e9de",
+      "#fffaf3",
+      "#faf4ed"
+    ],
+    "dateAdded": "1624457346304"
   }
 ]
